@@ -1,5 +1,29 @@
 .barra1 {
+
     font-family: 'Lucida Sans';
-    color: aliceblue;
-    background-color: brown;
+    color:aliceblue;
+    margin-top: 40px;
+
 }
+
+.logo{
+    width: 300px;
+    content: 150px;
+
+}
+
+div{
+    display: flex;
+    justify-content: space-between;
+    background-color: #E86666;
+}
+
+.foto-main{
+    position: absolute;
+    width: 1430px;
+    height: 800px;
+    left: 0px;
+    top: 120px
+}
+    
+    
